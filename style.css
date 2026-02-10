@@ -2,6 +2,11 @@
   padding: 15px;
 }
 
+body {
+  color: #fafafa;
+  background: #200220;
+}
+
 a {
   color: aqua;
   text-decoration: none;
@@ -18,7 +23,7 @@ a:hover {
 
 #footer {
   color: #fafafa;
-  background: #456789;
+  background: #041e38;
   margin: 6vh;
   border-radius: 15px;
 }/*# sourceMappingURL=style.css.map */
