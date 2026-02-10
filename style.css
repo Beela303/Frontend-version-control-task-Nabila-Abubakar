@@ -2,8 +2,23 @@
   padding: 15px;
 }
 
+a {
+  color: aqua;
+  text-decoration: none;
+}
+a:hover {
+  color: aquamarine;
+}
+
 #header {
   border-radius: 30px;
   box-shadow: #6b7965 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
   text-align: center;
+}
+
+#footer {
+  color: #fafafa;
+  background: #456789;
+  margin: 6vh;
+  border-radius: 15px;
 }/*# sourceMappingURL=style.css.map */
