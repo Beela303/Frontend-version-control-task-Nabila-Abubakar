@@ -2,6 +2,15 @@
     padding : 15px;
 }
 
+a {
+    color: aqua;
+    text-decoration: none;
+
+    &:hover {
+        color: aquamarine;
+    }
+}
+
 //HEADER
 #header {
     border-radius: 30px;
