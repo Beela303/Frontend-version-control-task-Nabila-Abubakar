@@ -2,6 +2,11 @@
   padding: 15px;
 }
 
+body {
+  color: #fafafa;
+  background: #200220;
+}
+
 a {
   color: aqua;
   text-decoration: none;
