@@ -27,9 +27,7 @@ This is the general customization of the website.
 ![A screenshot of the Merged PRs](./screenshots/merged_PRs.jpg)
 
 ### REVERT
-![A screenshot of the first revert](./screenshots/git_revert-01.jpg)
-
-![A screenshot of the second revert](./screenshots/git_revert-02.jpg)
+![A screenshot of the revert](./screenshots/git_revert.jpg)
 
 ### RENAME AND FETCH BRANCH
 ![A screenshot of renaming & fetching a branch](./screenshots/rename_branch_and_fetch_updates_locally.jpg)
